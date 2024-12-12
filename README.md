@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-##LIVE LINK : https://attamishwani.github.io/AykaysTest/
-=======
 # Aykays Test Project
 
 ## Project Overview
