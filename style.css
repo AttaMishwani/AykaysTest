@@ -641,9 +641,9 @@ footer {
         width: 100%;
         justify-content: center;
         align-items: center;
-        padding-top: 2rem;
+
         right: -100%;
-        min-height: 62vh;
+        min-height: 86vh;
         top: 105px;
         z-index: 9999;
         transition: 0.2s ease;
