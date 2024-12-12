@@ -28,11 +28,7 @@ The source code for this project is available at:
 - **Interactive Navigation**: Includes an interactive menu with hover effects.
 - **Modern UI**: Clean and simple UI design for easy user interaction.
 
----
 
-## Installation Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AttaMishwani/AykaysTest.git
+
 
